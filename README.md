@@ -32,8 +32,6 @@ This project presents a dynamic Power BI dashboard that analyzes Instagram engag
 - Marketing strategy optimization  
 - Educational demo for Power BI learners
 
-##✨Author-
-###👩‍💻 Created by
- *Anjali verma*- Passionate about data analytics, dashboard design, and educational tech.  
+## ✨ Author
+👩‍💻 Created by *Anjali Verma*-Passionate about data analytics, dashboard design, and educational tech.   
 LINKEDIN LINK :https://www.linkedin.com/in/anjali-verma-5672a5266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
