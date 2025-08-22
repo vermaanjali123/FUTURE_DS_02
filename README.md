@@ -33,6 +33,6 @@ This project presents a dynamic Power BI dashboard that analyzes Instagram engag
 - Educational demo for Power BI learners
 
 ### 🙋‍♂️ Author-
- *Anjali verma* Passionate about data analytics, dashboard design, and educational tech.  
+ *Anjali verma*- Passionate about data analytics, dashboard design, and educational tech.  
 
 
