@@ -24,7 +24,7 @@ This project presents a dynamic Power BI dashboard that analyzes Instagram engag
 - **Custom themes** for aesthetic styling
 
 ### 📷 Dashboard Preview
-![Dashboard Screenshot](<img width="1421" height="797" alt="Instagram dashborad" src="https://github.com/user-attachments/assets/bbfc29bc-995d-40dc-ad50-06444d6fec72" />)
+(<img width="1421" height="797" alt="Instagram dashborad" src="https://github.com/user-attachments/assets/bbfc29bc-995d-40dc-ad50-06444d6fec72" />)
 
 ### 📚 Use Cases
 - Social media performance review  
